@@ -7,7 +7,7 @@
 <property name="result.testclasses.dir" location="${result.dir}/build/test/classes/maincart"/>
 <property name="result.jar.file" location="./ShopCart.jar"/> 
 
-<target name="compile'>
+<target name="compile">
  <mkdir dir="${result.javaclasses.dir}"/>
  <javac srcdir="${src.java.dir}" destdir="${resultjavaclasses.dir} debug="true" includeantruntime="false">
 
