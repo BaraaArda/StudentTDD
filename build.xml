@@ -23,11 +23,6 @@
  </jar>
  </target> 
 </project> 
-
-
-
-
-
 <path id="NecessaryLibraries">
         <pathelement location="./UsedLibraries/junit-4.12.jar"/>
         <!--matcher-->
