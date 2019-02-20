@@ -1,7 +1,7 @@
 <project default="compile">
 
-<property name="src.java.dir" location="./src/maincart/ShopCart.java"/>
-<property name="src.test.dir" location="./test/maincart/ShopCartTest.java"/>
+<property name="src.java.dir" location="./src/maincart"/>
+<property name="src.test.dir" location="./test/maincart"/>
 <property name="result.dir" location="./target"/>
 <property name="result.javaclasses.dir" location="./build/classes/maincart"/>
 <property name="result.testclasses.dir" location="${result.dir}/build/test/classes/maincart"/>
